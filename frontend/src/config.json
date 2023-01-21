@@ -1,15 +1,15 @@
 {
     "system": {
-        "name": "King Ticket",
+        "name": "Velox Telecom",
         "url": "#",
         "color": {
             "lightTheme": {
                 "palette": {
-                    "primary": "#6B62FE",
-                    "secondary": "#F50057"
+                    "primary": "#0cd6f1",
+                    "secondary": "#0cd6f1"
                 },
                 "toolbar": {
-                    "background": "linear-gradient(to right, #6B62FE, #f50057)"
+                    "background": "linear-gradient(to right, #0cd6f1, #0cd6f1)"
                 },
                 "menuItens": "#ffffff",
                 "sub": "#ffffff",
